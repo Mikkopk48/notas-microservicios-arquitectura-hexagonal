@@ -1,6 +1,8 @@
 # Notas · Microservicios y arquitectura por capas vs. hexagonal
 
-_Todavía no hay imágenes exportadas._
+## AQUITECTURA POR CAPAS VS HEXAGONAL
+
+[![AQUITECTURA POR CAPAS VS HEXAGONAL](AQUITECTURA%20POR%20CAPAS%20VS%20HEXAGONAL.png)](AQUITECTURA%20POR%20CAPAS%20VS%20HEXAGONAL.png)
 
 ---
 _README generado automáticamente por `scripts/update-readme.sh`._
